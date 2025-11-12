@@ -74,6 +74,11 @@ With RandomForestClassifier and SMOTE balancing, the model achieves ~96–98% ac
 
 👨‍💻 Author
 Sonu Kumar
+supriya kumari
+gaurav raj
+vishal kumar
+ayush pandey
+anuj yadav
 B.Tech CSE (Minor in Data Science)
 Lovely Professional University
 🌐 GitHub: bhairava009
